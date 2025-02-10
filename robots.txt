@@ -1,1 +1,1 @@
-Sitemap: http://jasmerlab.org/sitemap.xml
+Sitemap: http://jasmerlab.com/sitemap.xml
