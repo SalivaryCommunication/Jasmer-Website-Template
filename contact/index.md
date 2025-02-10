@@ -14,18 +14,19 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="Kimberly.Jasmer@Louisville.edu"
+  link="Kimberly.Jasmer@Louisville.edu"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(502)852-1843"
+  link="+1-502-852-1843"
 %}
 {%
   include button.html
-  type="address"
+  type="501 S Preston Street Louisville, KY 40202
+  School of Dentistry Room 344"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps"
 %}
